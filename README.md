@@ -13,8 +13,6 @@ I am an undergraduate Student at KUAS, pursuing a Bachelors in Mechanical and El
 
 - 📫 How to reach me **faysalfakrul916@gmail.com**
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
 - ⚡ Fun fact: The Eiffel Tower can be 15 cm taller during the summer, due to thermal expansion meaning the iron heats up, the particles gain kinetic energy and take up more space.
   
 
