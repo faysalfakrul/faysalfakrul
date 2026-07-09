@@ -75,14 +75,6 @@ I enjoy building the bridge between hardware and software through robotics, embe
 
 ---
 
-# 📊 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faysalfakrul&theme=tokyo-night"/>
-</p>
-
----
-
 # 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/faysalfakrul)
