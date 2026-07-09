@@ -34,7 +34,6 @@ I enjoy building the bridge between hardware and software through robotics, embe
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/>
 </p>
